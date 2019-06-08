@@ -1,2 +1,2 @@
-*/.gitignore
-*/.ipynb*
+.gitignore
+.ipynb_*
