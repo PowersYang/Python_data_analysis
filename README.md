@@ -1,2 +1,1 @@
-# Python_analysis
-Python数据分析笔记
+# Python_data_analysis
