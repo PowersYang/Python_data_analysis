@@ -1,2 +1,2 @@
-.gitignore
 .ipynb_*
+.DS_Store
