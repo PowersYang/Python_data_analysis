@@ -1,8 +1,7 @@
-- [ ] 00、初识pandas
-- [ ] 01、Series和DataFrame对象的创建
+- [x] 00、初识pandas
+- [x] 01、Series和DataFrame对象的创建
 - [ ] 02、Series和DataFrame对象的增删改查
 - [ ] 03、合并数据集
-- [ ] 04、Index对象的创建以及增删改查
 - [ ] 05、普通列和行index的相互转化
 - [ ] 06、数据结构总览
 - [ ] 07、显示控制
